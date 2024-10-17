@@ -1,0 +1,36 @@
+---
+title: "Duty to Others"
+
+tags:
+  - cosmopolitanism
+  - community
+  - duty
+  - justice
+  - humanity
+---
+
+# Duty to Others
+
+Recognize the unity of all humans. You have an **obligation to act with
+kindness, justice, and fairness** toward others. Fulfil your duties to others
+because it is the natural thing to do, not for personal gain. Act with
+[justice](justice.md), treating others equally and working for the common good.
+Your duty to others extends beyond family and friends to all people. We are all
+members of the same [universal community](cosmopolitanism.md).
+
+We are naturally social and rational beings. We are designed to live in harmony
+with one another. You have obligations to those around you based on your role
+and relationship. Fulfilling these duties is essential to your own inner peace.
+
+- The duty of a parent is to care for their children.
+- The duty of a leader is to [serve the community](community-engagement.md).
+- The duty of a friend is to offer support and companionship.
+
+Your duty to others should not based on personal feelings, preferences, or
+convenience. It is based on a rational understanding of what is just and
+appropriate in every situation. Act for the benefit of others out of a sense of
+duty and moral obligation rather than for personal gain. Act with fairness,
+kindness, and integrity, even when it is difficult or when your desires conflict
+with your responsibilities. This is a form of rational love for humanity. We
+contribute to the common good by fulfilling our roles to the best of our
+abilities because [it aligns with our nature](living-accordance-nature.md).
