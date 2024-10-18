@@ -39,7 +39,8 @@ import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
   margin-bottom: 10px;
 }
 
-.vp-page-nav {
+.vp-page-nav,
+.git-info {
   display: none;
 }
 </style>
