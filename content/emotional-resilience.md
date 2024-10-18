@@ -27,7 +27,7 @@ judgments](passions-irrational-judgments.md) based on false beliefs. Master
 passions with [reason](role-reason.md). Understand the distinction between [what
 is within your control and what is outside your control](dichotomy-control.md).
 The more you do this, the closer you come to [accepting
-reality](freedom-disturbance.md).
+reality](inner-peace.md).
 
 Use [key practices & exercises](key-practices-exercises.md) to strengthen your
 emotional resilience.
@@ -38,4 +38,4 @@ events. Aim to correct those judgments and focus on what is within your control.
 Use techniques like [cognitive reappraisal](cognitive-reappraisal.md), [negative
 visualization](negative-visualization.md), and
 [self-reflection](self-reflection.md) to learn to respond to life’s challenges
-and maintain [inner tranquility](freedom-disturbance.md).
+and maintain [inner tranquility](inner-peace.md).

@@ -28,4 +28,4 @@ even in difficult situations.
 Do not judge things as purely good or bad right away. Try to understand them
 clearly, without letting your emotions take over. Focus on what you can control
 and let go of what you cannot. This leads to [inner
-peace](freedom-disturbance.md) and [wisdom](wisdom.md), no matter what happens.
+peace](inner-peace.md) and [wisdom](wisdom.md), no matter what happens.

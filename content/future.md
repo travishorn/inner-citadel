@@ -31,7 +31,7 @@ Take responsibility for your actions and strive for self-improvement. However,
 your efforts should be focused on cultivating inner strength,
 [wisdom](wisdom.md), and [resilience](emotional-resilience.md), rather than
 trying to control external events. This is the way to [inner
-freedom](freedom-disturbance.md) and [equanimity](freedom-disturbance.md),
+freedom](inner-peace.md) and [equanimity](inner-peace.md),
 regardless of what happens in the external world.
 
 Planning and preparation are important, but be cautious of excessive attachment

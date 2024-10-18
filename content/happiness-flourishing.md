@@ -25,8 +25,8 @@ control](dichotomy-control.md#what-is-within-our-control).
 
 Seeking pleasure or avoiding discomfort is misguided because those feelings
 depend on external circumstances outside your control. True happiness comes from
-within; from things in your control. Happiness is closely tied to [freedom from
-disturbance](freedom-disturbance.md).
+within; from things in your control. Happiness is closely tied to [inner
+peace](inner-peace.md).
 
 Find happiness by maintaining inner peace. Cultivate virtues like
 [wisdom](wisdom.md), [courage](courage.md), [justice](justice.md), and

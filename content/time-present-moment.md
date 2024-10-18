@@ -13,7 +13,7 @@ tags:
 
 The only moment we truly have is the present. **Focus on what you can do here
 and now.** Do not be distracted by regret over the past or anxiety about the
-future. This is essential for having [inner peace](freedom-disturbance.md) and
+future. This is essential for having [inner peace](inner-peace.md) and
 [acting with virtue](acting-virtue.md).
 
 The past has already happened and the future is uncertain. So, the present

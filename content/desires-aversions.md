@@ -28,7 +28,7 @@ failure and sadness. [True happiness](happiness-flourishing.md) comes from
 [virtuous living](acting-virtue.md).
 
 Do not avoid pain or loss. They are inevitable parts of life. Instead, focus on
-your response to them. Accept them with [equanimity](freedom-disturbance.md).
+your response to them. Accept them with [equanimity](inner-peace.md).
 Align yourselves with the natural order of things to avoid unnecessary internal
 suffering. The key is to distinguish between what you can control and what you
 cannot. If you focus on avoiding the inevitable things in life, you allow your

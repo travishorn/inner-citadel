@@ -22,7 +22,7 @@ virtuous response](acting-virtue.md) to what they say or do.
 You cannot change how others think or behave. However, your reaction is shaped
 by your perception. So look at it objectively. Do not let your emotions dictate
 your response. Do this, and you will avoid distress, allowing you to maintain
-[inner peace](freedom-disturbance.md).
+[inner peace](inner-peace.md).
 
 Everyone has their own struggle, story, and perspective. Do not attach yourself
 external validation. Do not be affected by others peoples' opinions. Prioritize

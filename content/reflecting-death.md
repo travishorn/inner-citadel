@@ -22,10 +22,10 @@ and [living according to nature](living-accordance-nature.md). Live fully in
 pursuing [happiness and flourishing](happiness-flourishing.md).
 
 Reflect on death to build [emotional resilience](emotional-resilience.md) and
-[freedom from disturbance](freedom-disturbance.md). Detach yourself from any
-[fear](fear.md) or anxiety about it. Death is part of the natural order. Fearing
-it is irrational since it is an inevitable part of life's cycle. Reflecting on
-death should inspire you to act meaningfully and focus on how you live.
+[inner peace](inner-peace.md). Detach yourself from any [fear](fear.md) or
+anxiety about it. Death is part of the natural order. Fearing it is irrational
+since it is an inevitable part of life's cycle. Reflecting on death should
+inspire you to act meaningfully and focus on how you live.
 
 Regularly remind yourself of your own mortality. **Accept it.** Allow yourself
 to face it with peace rather than dread.

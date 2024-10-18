@@ -57,14 +57,14 @@ indifferent.
 
 Mastering passions and overcoming [destructive
 emotions](destructive-emotions.md) are crucial.
-[Tranquility](freedom-disturbance.md) comes from [controlling emotions through
-reason](emotional-resilience.md). [Freedom](freedom-disturbance.md) comes from
+[Tranquility](inner-peace.md) comes from [controlling emotions through
+reason](emotional-resilience.md). [Freedom](inner-peace.md) comes from
 mastering what is within your control. This approach leads to the [acceptance of
-reality](freedom-disturbance.md).
+reality](inner-peace.md).
 
 The distinction between what is within your control (thoughts, actions, desires)
 and what is outside it (external events, others’ actions, outcomes) is key to
 living a peaceful life. By focusing on controlling your inner responses and
 accepting external events as they happen, you cultivate [emotional
-resilience](emotional-resilience.md), [inner freedom](freedom-disturbance.md), and
-[lasting peace](freedom-disturbance.md).
+resilience](emotional-resilience.md), [inner freedom](inner-peace.md), and
+[lasting peace](inner-peace.md).

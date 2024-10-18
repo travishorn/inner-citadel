@@ -22,7 +22,7 @@ result from incorrect thinking.
 Intense emotions like fear, desire, [grief](grief.md), and anger all come from
 [attachment to external things](detachment-externals.md) and lead to destructive
 feelings. True goodness lies in [virtue](cardinal-virtues.md). Passions distract
-you from achieving [inner peace](freedom-disturbance.md) and
+you from achieving [inner peace](inner-peace.md) and
 [wisdom](wisdom.md).
 
 Practice [negative visualization](negative-visualization.md) and [cognitive

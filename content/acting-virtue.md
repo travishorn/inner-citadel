@@ -16,14 +16,14 @@ tags:
 
 Focus on these virtues: [wisdom](wisdom.md), [courage](courage.md),
 [justice](justice.md), and [temperance](temperance.md). By **acting according to
-them**, you will find inner stability, which reduces emotional disturbance.
+them**, you will find inner stability, which reduces emotional distress.
 [Destructive Emotions](destructive-emotions.md) like [anger](anger.md),
 [envy](envy-jealousy.md), and [fear](fear.md) are not aligned with virtuous
 living because they cloud your judgment and lead to irrational
 [actions](actions.md).
 
 Through [virtue](cardinal-virtues.md) you find [true
-happiness](freedom-disturbance.md). External circumstances like wealth, health,
+happiness](inner-peace.md). External circumstances like wealth, health,
 or social status are [indifferent](dichotomy-control.md#indifferents) to your
 well-being and *do not* determine happiness. Instead, you find happiness by
 living in [accordance with nature](living-accordance-nature.md), which means

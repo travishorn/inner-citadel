@@ -25,5 +25,5 @@ your character.
 process. Fear diminishes when you accept that life and death are both part of
 the rational order of things. [You are a part of a larger, rational
 universe.](global-citizenship.md) Everything that happens is part of it. You
-cannot achieve [inner peace](freedom-disturbance.md) while living in fear of
+cannot achieve [inner peace](inner-peace.md) while living in fear of
 natural and inevitable events.

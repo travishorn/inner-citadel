@@ -24,7 +24,7 @@ comes with fearing it.
 [connects](interconnectedness.md) us to the universe and each other. It gives
 everything order, structure, and purpose. It is at your core. [Align your reason
 with nature](living-accordance-nature.md) to [live in harmony with
-it](freedom-disturbance.md). Reason is not just a tool for solving problems. It
+it](inner-peace.md). Reason is not just a tool for solving problems. It
 is a way to better understand your place in the world.
 
 Reason is essential for developing [virtue](cardinal-virtues.md).
@@ -35,4 +35,4 @@ your control is beyond it](dichotomy-control.md). Use it to control emotions by
 
 Find [happiness](happiness-flourishing.md) through reason. Accept the natural
 order of things, even through challenges. [Respond with
-virtue](acting-virtue.md) to maintain [inner peace](freedom-disturbance.md).
+virtue](acting-virtue.md) to maintain [inner peace](inner-peace.md).
