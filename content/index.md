@@ -4,7 +4,7 @@ footer: Inner Citadel © by Travis Horn is licensed under CC BY-SA 4.0
 ---
 
 <div style="text-align:center;margin-top:50px">
-  <img style="width:100%;max-width:300px" alt="Citadel logo" src="/images/citadel.png">
+  <img style="width:100%;max-width:300px" alt="Citadel logo" :src="$withBase('/images/citadel.png')">
 </div>
 
 This is a guide for anyone who wants to have a solid plan when facing adversity,
