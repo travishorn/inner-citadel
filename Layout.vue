@@ -29,6 +29,7 @@ import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
   --vp-c-accent: #4E5DD0;
   --vp-c-accent-bg: #4E5DD0;
   --font-family: 'Mulish Variable';
+  --nprogress-c: transparent;
 }
 
 .vp-sidebar-item.vp-sidebar-heading {
