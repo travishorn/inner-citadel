@@ -36,5 +36,5 @@ Intentionally [expose yourself to temporary, controlled
 discomfort](voluntary-discomfort.md) to better prepare for life's inevitable
 challenges.
 
-Focus on [**living with virtue**](acting-virtue.md) to acheive long-term
+Focus on [**living with virtue**](acting-virtue.md) to achieve long-term
 fulfillment.

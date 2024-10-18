@@ -22,7 +22,7 @@ Desires and aversions are key areas where you can cultivate discipline. Your
 desires should be aligned with nature and reason. Focus on your
 [thoughts](thoughts-judgments.md), [actions](actions.md), and attitude. Pursuing
 external things (such as wealth) is misguided because those pleasures are
-dependent on factors outside your control. They will be ulimately unsatifying.
+dependent on factors outside your control. They will be ultimately unsatisfying.
 If you rely on external pleasure, you expose yourself to the opportunity for
 failure and sadness. [True happiness](happiness-flourishing.md) comes from
 [virtuous living](acting-virtue.md).

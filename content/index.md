@@ -35,7 +35,7 @@ emotions through reason</strong>.
   <div>
     <RouteLink to="key-practices-exercises">Key Practices & Exercises</RouteLink>
     <p>
-    <strong>Prepare</strong> for emotional challenges, <strong>refreame</strong> negative events, <strong>examine</strong>
+    <strong>Prepare</strong> for emotional challenges, <strong>reframe</strong> negative events, <strong>examine</strong>
 your thoughts, <strong>detach</strong> from external things, and <strong>live</strong> according to
 nature.
     </p>

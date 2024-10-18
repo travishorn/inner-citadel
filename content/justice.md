@@ -33,4 +33,4 @@ Pay attention to your own [intentions and attitudes](thoughts-judgments.md).
 [Act](actions.md) justly even when it is difficult; even when others do not act
 justly in return. Act with fairness, fulfill your social duties, respect others'
 rights, and work for the welfare of everyone. This is important for [living with
-virute](acting-virtue.md), which leads to [happiness](happiness-flourishing.md).
+virtue](acting-virtue.md), which leads to [happiness](happiness-flourishing.md).

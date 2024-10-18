@@ -15,9 +15,9 @@ tags:
 
 # Temperance
 
-Temperance is exercing **self-control** and **moderation** in all areas of life.
-[Regulate your desires, emotions, and actions](emotional-resilience.md) to make
-sure that you are guided by reason rather than impulses or [external
+Temperance is exercising **self-control** and **moderation** in all areas of
+life. [Regulate your desires, emotions, and actions](emotional-resilience.md) to
+make sure that you are guided by reason rather than impulses or [external
 desires](external-events.md). By practicing temperance, you can achieve [inner
 peace](freedom-disturbance.md) and live a purposeful.
 
