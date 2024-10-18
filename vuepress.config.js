@@ -43,4 +43,5 @@ export default defineUserConfig({
   temp: ".vuepress/.temp",
   cache: ".vuepress/.cache",
   public: "content/static",
+  base: "/inner-citadel/"
 });
