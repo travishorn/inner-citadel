@@ -25,7 +25,7 @@ living because they cloud your judgment and lead to irrational
 Through [virtue](cardinal-virtues.md) you find [true
 happiness](inner-peace.md). External circumstances like wealth, health,
 or social status are [indifferent](dichotomy-control.md#indifferents) to your
-well-being and *do not* determine happiness. Instead, you find happiness by
+well-being and _do not_ determine happiness. Instead, you find happiness by
 living in [accordance with nature](living-accordance-nature.md), which means
 acting with virtue. If you cultivate virtue and align with nature, you live in
 harmony with yourself and the world. Since virtue is [entirely within our

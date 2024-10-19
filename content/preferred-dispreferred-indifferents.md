@@ -21,7 +21,7 @@ others and fulfill your duties.
 **Dispreferred indifferents** are not inherently bad, but they can present
 obstacles to living a virtuous life. For example, poverty often brings emotional
 burdens like stress and [fear](fear.md), which can cloud judgment and make it
-harder to act in [accordance with reason](living-accordance-nature.md).  
+harder to act in [accordance with reason](living-accordance-nature.md).
 
 [Do not become attached](detachment-externals.md) to preferred indifferents or
 overly averse to dispreferred ones. Instead, view them with equanimity. They are

@@ -23,7 +23,7 @@ you can focus on what truly matters.
 
 The only things fully within your control are your own thoughts, judgments,
 desires, and actions. These are the internal workings of your mind, which you
-have direct control over. 
+have direct control over.
 
 Your [interpretations of events](thoughts-judgments.md), the values you assign
 to things, and how you mentally react to situations are entirely under your
@@ -34,7 +34,7 @@ say, and what you do are also directly within your control.
 ## What is Outside Our Control
 
 Everything external to your thoughts and actions, including external events,
-other people’s actions, and the outcomes of your efforts, are outside of your
+other people's actions, and the outcomes of your efforts, are outside of your
 control. These are influenced by factors beyond your direct influence.
 
 [Natural occurrences](external-events.md) such as the weather, accidents,
@@ -45,26 +45,21 @@ outcomes](outcomes-our-efforts.md).
 
 ### Indifferents
 
-While externals in life are neither good nor bad themselves, sometimes they can
-be preferred or dispreferred based on their contribution to living a virtuous
-life. These are called [preferred and dispreferred
+While external circumstances in life are neither good nor bad themselves,
+sometimes they can be preferred or dispreferred based on their contribution to
+living a virtuous life. These are called [preferred and dispreferred
 indifferents](preferred-dispreferred-indifferents.md).
 
 For example, good health is a preferred indifferent. Poverty is a dispreferred
 indifferent.
 
-## Practical Implications
+---
 
-Mastering passions and overcoming [destructive
-emotions](destructive-emotions.md) are crucial.
+Overcome [destructive emotions](destructive-emotions.md).
 [Tranquility](inner-peace.md) comes from [controlling emotions through
-reason](emotional-resilience.md). [Freedom](inner-peace.md) comes from
-mastering what is within your control. This approach leads to the [acceptance of
-reality](inner-peace.md).
+reason](emotional-resilience.md). Freedom comes from mastering what is within
+your control. This approach leads to the [acceptance of reality](love-fate.md).
 
-The distinction between what is within your control (thoughts, actions, desires)
-and what is outside it (external events, others’ actions, outcomes) is key to
-living a peaceful life. By focusing on controlling your inner responses and
-accepting external events as they happen, you cultivate [emotional
-resilience](emotional-resilience.md), [inner freedom](inner-peace.md), and
-[lasting peace](inner-peace.md).
+The key to living a peaceful life is understanding what is within your control
+and what is outside it. Gain emotional resilience and inner peace by controlling
+your inner responses and accepting external events as they happen.

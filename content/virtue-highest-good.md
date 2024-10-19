@@ -13,7 +13,7 @@ tags:
 # Virtue as the Highest Good
 
 Virtue is the **foundation of ethical living**. It is moral excellence. It is
-necessary for [happiness and flourishing](happiness-flourishing.md).  Living
+necessary for [happiness and flourishing](happiness-flourishing.md). Living
 virtuously is [living in accordance with nature](living-accordance-nature.md).
 Align your [actions](actions.md), desires, and
 [thoughts](thoughts-judgments.md) with the natural order of the universe.

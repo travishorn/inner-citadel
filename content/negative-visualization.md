@@ -25,7 +25,7 @@ react with [fear](fear.md) or distress. **Imagine worst-case scenarios** to
 Set aside time each day to **think about potential challenges** and **how you
 might handle them**. [Write down your thoughts](self-reflection.md)
 about what could go wrong in specific situations and how you would respond. Stay
-calm by focusing on [your own *response* to
+calm by focusing on [your own _response_ to
 adversity](dichotomy-control.md#what-is-within-our-control).
 
 By preparing for the worst, you gain a better perspective and can overcome

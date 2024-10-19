@@ -13,7 +13,7 @@ tags:
 
 While you can control your actions, you **cannot control the ultimate outcome**
 of your actions. The results are influenced by factors outside your direct
-power, like chance, timing, other peoples' actions. [Do not attach
+power, like chance, timing, other people's actions. [Do not attach
 yourself](detachment-externals.md) to specific outcomes. Instead, focus on doing
 your best in the moment, leaving the results to unfold as they will.
 

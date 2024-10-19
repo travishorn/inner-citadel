@@ -14,7 +14,7 @@ tags:
 # Cognitive Reappraisal
 
 Use Cognitive Reappraisal as a psychological technique to **reframe negative
-events in a rational light**. Rather than viewing a situation as *bad*,
+events in a rational light**. Rather than viewing a situation as _bad_,
 reinterpret it according to [your principles](cardinal-virtues.md). By shifting
 your perspective, you prevent [destructive emotions](destructive-emotions.md)
 like [anger](anger.md) from arising.

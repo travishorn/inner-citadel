@@ -28,4 +28,3 @@ to fleeting things.](detachment-externals.md) Everything comes and goes as part
 of nature's cycle. Focus on [cultivating virtue](acting-virtue.md) and [what you
 can control](dichotomy-control.md#what-is-within-our-control) (your own
 responses and choices) rather than external things that are not permanent.
-

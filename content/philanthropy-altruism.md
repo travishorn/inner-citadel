@@ -23,7 +23,7 @@ give. Help others when it aligns with [virtue](cardinal-virtues.md). Think about
 what truly benefits others. Do not simply seek to ease suffering in a
 superficial way. This goes beyond giving material things. Promote the
 [flourishing](happiness-flourishing.md) of others' just as you seek flourishing
-yourself. 
+yourself.
 
 It is not about self-sacrifice, but about acting in accordance with reason,
 where the good of others is interconnected with your own pursuit of virtue. By

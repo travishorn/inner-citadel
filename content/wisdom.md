@@ -25,8 +25,8 @@ and [improving their character](acting-virtue.md) rather than trying to control
 
 Emotions like [fear](fear.md) and [anger](anger.md) come from misunderstanding
 what is good or bad. Wisdom teaches you that goodness is having a virtuous
-character. So, the only *real* bad is failing to act virtuously. External things
+character. So, the only _real_ bad is failing to act virtuously. External things
 do not affect your [inner peace](inner-peace.md) if you have wisdom.
 
-Having wisdom means [accepting life’s challenges without
+Having wisdom means [accepting life's challenges without
 complaining](love-fate.md).

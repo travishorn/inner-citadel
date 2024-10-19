@@ -37,5 +37,5 @@ destructive emotions are the result of your misguided judgment about external
 events. Aim to correct those judgments and focus on what is within your control.
 Use techniques like [cognitive reappraisal](cognitive-reappraisal.md), [negative
 visualization](negative-visualization.md), and
-[self-reflection](self-reflection.md) to learn to respond to life’s challenges
+[self-reflection](self-reflection.md) to learn to respond to life's challenges
 and maintain [inner tranquility](inner-peace.md).

@@ -15,7 +15,7 @@ Envy and jealousy arise from **comparing yourself to others** and **desiring
 what other people have**.
 
 Focus on what is [truly valuable](cardinal-virtues.md) and not on material or
-external things, which are indifferent. Other peoples' success and possessions
+external things, which are indifferent. Other people's success and possessions
 do not have any effect on your own capacity for virtue. When you realize this,
 envy fades away.
 
@@ -23,7 +23,7 @@ External things that you might desire are not within your direct control, so
 they should not be the basis for your happiness. Desiring what others have is an
 [irrational emotion](passions-irrational-judgments.md). Do not allow yourself to
 be disturbed by external desires. It leads to unnecessary suffering. Focus on
-your own actions and character. Those things are within your control and *do*
+your own actions and character. Those things are within your control and _do_
 define your happiness.
 
 Envy and jealousy are also harmful to your relationships with others. They
