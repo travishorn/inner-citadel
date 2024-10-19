@@ -27,7 +27,7 @@ judgments](passions-irrational-judgments.md) based on false beliefs. Master
 passions with [reason](role-reason.md). Understand the distinction between [what
 is within your control and what is outside your control](dichotomy-control.md).
 The more you do this, the closer you come to [accepting
-reality](inner-peace.md).
+reality](love-fate.md).
 
 Use [key practices & exercises](key-practices-exercises.md) to strengthen your
 emotional resilience.
