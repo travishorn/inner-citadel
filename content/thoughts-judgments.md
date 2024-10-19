@@ -21,11 +21,11 @@ unaffected. Recognize that the insult does not affect your moral character, and
 the choice becomes easy.
 
 Thoughts and judgments are the key to how you experience the world. It is not
-the events themselves that upset you, but how you respond to them. You have the
+events themselves that upset you, but how you respond to them. You have the
 power to control your reactions by changing how you interpret things. Stay calm
 even in difficult situations.
 
 Do not judge things as purely good or bad right away. Try to understand them
 clearly, without letting your emotions take over. Focus on what you can control
-and let go of what you cannot. This leads to [inner
-peace](inner-peace.md) and [wisdom](wisdom.md), no matter what happens.
+and let go of what you cannot. This leads to [inner peace](inner-peace.md) and
+[wisdom](wisdom.md), no matter what happens.

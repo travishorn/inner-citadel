@@ -13,12 +13,13 @@ aliases:
 
 # Destructive Emotions
 
-Destructive emotions **disrupt your peace of mind** and **lead you away from
-rational living**. These emotions are not natural, uncontrollable forces, but
-the result of [faulty judgments](passions-irrational-judgments.md) about what is
-good or bad. You can master your emotional responses and achieve greater
-tranquility by understanding where destructive emotions come from and learning
-to [reinterpret external events through reason](cognitive-reappraisal.md).
+Destructive emotions (also called **passions**) **disrupt your peace of mind**
+and **lead you away from rational living**. These emotions are not natural,
+uncontrollable forces, but the result of [faulty
+judgments](passions-irrational-judgments.md) about what is good or bad. You can
+master your emotional responses and achieve greater tranquility by understanding
+where destructive emotions come from and learning to [reinterpret external
+events through reason](cognitive-reappraisal.md).
 
 [Anger](anger.md) is one of the most destructive emotions because it arises from
 perceived injury or injustice and leads to irrational [actions](actions.md).

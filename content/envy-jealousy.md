@@ -24,7 +24,7 @@ they should not be the basis for your happiness. Desiring what others have is an
 [irrational emotion](passions-irrational-judgments.md). Do not allow yourself to
 be disturbed by external desires. It leads to unnecessary suffering. Focus on
 your own actions and character. Those things are within your control and _do_
-define your happiness.
+define your [happiness](happiness-flourishing.md).
 
 Envy and jealousy are also harmful to your relationships with others. They
 create a wall between you and those you envy or are jealous of. This brings

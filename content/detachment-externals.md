@@ -31,12 +31,12 @@ always be there and you will realize how misguided it is to place your happiness
 in them. [Mentally prepare for loss or adversity](negative-visualization.md)
 before it occurs. Then, you will be able to face them with [emotional
 resilience](emotional-resilience.md). Externals do not define you, so they
-should not affect your inner tranquility.
+should not affect your [inner tranquility](inner-peace.md).
 
-Remember that externals are neither good nor bad. They are indifferent in
-relation to the ultimate goal of a virtuous life. Gaining external things is not
-good in itself if it distracts you from your moral purpose. Losing something
-cannot be seen as a misfortune unless you let it disturb our inner peace. View
-externals as indifferent to prevent them from controlling your emotions. It is
-not about avoiding engagement with the world, but about maintaining control over
-your inner happiness.
+Remember that externals are neither good nor bad. They are indifferent to the
+ultimate goal of a virtuous life. Gaining external things is not good if they
+distract you from your moral purpose. Losing something is not a misfortune
+unless you let it disturb you. View externals as indifferent to prevent them
+from controlling your emotions. It is not about avoiding engagement with the
+world, but about maintaining control over your inner
+[happiness](happiness-flourishing.md).

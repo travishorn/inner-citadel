@@ -14,8 +14,8 @@ tags:
 Think of yourself as a **citizen of the world**, focusing on what unites all
 people rather than what divides them.
 
-You have a universal identity beyond local affiliations. All humans as part of a
-single, [interconnected community](interconnectedness.md). Your [duties to
+You have a universal identity beyond local affiliations. All humans are part of
+a single, [interconnected community](interconnectedness.md). Your [duty to
 others](duty-others.md) encompasses a broader sense of belonging based on
 [shared humanity](shared-rational-nature.md).
 

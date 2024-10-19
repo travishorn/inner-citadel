@@ -20,10 +20,10 @@ to change other people or worrying about their opinion, focus on [your own
 virtuous response](acting-virtue.md) to what they say or do.
 
 You cannot change how others think or behave. However, your reaction is shaped
-by your perception. So look at it objectively. Do not let your emotions dictate
-your response. Do this, and you will avoid distress, allowing you to maintain
-[inner peace](inner-peace.md).
+by [your perception](thoughts-judgments.md). So look at it objectively. Do not
+let your emotions dictate your response. Do this, and you will avoid distress,
+allowing you to maintain [inner peace](inner-peace.md).
 
-Everyone has their own struggle, story, and perspective. Do not attach yourself
-external validation. Do not be affected by others people's opinions. Prioritize
-your own character over their judgment.
+Everyone has their own struggle, story, and perspective. [Do not attach yourself
+external validation.](detachment-externals.md) Do not be affected by others
+people's opinions. Prioritize your own character over their judgment.

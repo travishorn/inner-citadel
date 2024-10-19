@@ -21,6 +21,6 @@ moment is the only time you control. Regret serves no useful purpose because
 [the past](past.md) cannot be changed. Since [the future](future.md) is also
 beyond your control, do not let it disturb your peace of mind, either.
 
-Live in the present to live with focus and clarity. Accept the past, do not
-worry about the future, and concentrate on acting with virtue now, which will
-lead to [happiness and flourishing](happiness-flourishing.md).
+Live in the present with focus and clarity. Accept the past, do not worry about
+the future, and concentrate on acting with virtue now, which will lead to
+[happiness and flourishing](happiness-flourishing.md).

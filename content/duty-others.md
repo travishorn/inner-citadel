@@ -12,7 +12,7 @@ tags:
 # Duty to Others
 
 Recognize the unity of all humans. You have an **obligation to act with
-kindness, justice, and fairness** toward others. Fulfil your duties to others
+kindness, justice, and fairness** toward others. Fulfill your duties to others
 because it is the natural thing to do, not for personal gain. Act with
 [justice](justice.md), treating others equally and working for the common good.
 Your duty to others extends beyond family and friends to all people. We are all
@@ -31,6 +31,6 @@ convenience. It is based on a rational understanding of what is just and
 appropriate in every situation. Act for the benefit of others out of a sense of
 duty and moral obligation rather than for personal gain. Act with fairness,
 kindness, and integrity, even when it is difficult or when your desires conflict
-with your responsibilities. This is a form of rational love for humanity. We
-contribute to the common good by fulfilling our roles to the best of our
-abilities because [it aligns with our nature](living-accordance-nature.md).
+with your responsibilities. This is a form of rational love for humanity.
+Contribute to the common good by fulfilling your role to the best of your
+ability because [it aligns with your nature](living-accordance-nature.md).

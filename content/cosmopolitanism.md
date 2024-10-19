@@ -14,7 +14,7 @@ tags:
 # Cosmopolitanism
 
 There is a **brotherhood of all humanity**. Every person is a citizen of the
-world, rather than belonging to a specific tribe or nation alone.
+world, not belonging to a specific tribe or nation alone.
 
 [All people possess reason](shared-rational-nature.md). It is the spark that
 connects us to the universe and each other. We are not isolated individuals, but

@@ -20,12 +20,12 @@ the body. Acting for the common good contributes to the harmony of everyone.
 
 [Your actions](actions.md) ripple through the structure of society in ways you
 cannot immediately see. No event happens in isolation. Every choice you make and
-every action you do is a part of this large interconnected web. Have sympathy
+every action you take is a part of this large interconnected web. Have sympathy
 for the world itself and everything in it. This goes beyond human-to-human
 relationships.
 
-When you [act with virtue](acting-virtue.md), it's more than just a personal
-choice. It's a [contribution to the well-being of
+When you [act with virtue](acting-virtue.md), it is more than just a personal
+choice: It is a [contribution to the well-being of
 everything](cosmopolitanism.md). Acting against virtue (through greed,
-destruction, or other means), you violate the rational order that connects
+destruction, or other means) violates the rational order that connects
 everything together.

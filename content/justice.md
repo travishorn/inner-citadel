@@ -21,12 +21,13 @@ of humanity](interconnectedness.md)**, ensuring that all are treated equally. It
 goes beyond personal duties to include social responsibilities, promoting the
 common good, and contributing positively to society. It is a part of
 [cosmopolitanism](cosmopolitanism.md), where all humans are part of a single
-universal community, connected by shared reason and moral duty.
+universal community, connected by [shared reason](shared-rational-nature.md) and
+[moral duty](duty-others.md).
 
 Justice is more than a legal framework. It is a part of your duty to [live
 according to nature](living-accordance-nature.md). Treat others with fairness,
-honesty, and kindness. Recognizing human dignity. All people are equal, so act
-in the best interest of the whole community, rather than selfishly pursuing your
+honesty, and kindness. Recognize human dignity. All people are equal, so act in
+the best interest of the whole community, rather than selfishly pursuing your
 own desires.
 
 Pay attention to your own [intentions and attitudes](thoughts-judgments.md).

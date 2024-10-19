@@ -12,7 +12,7 @@ tags:
 
 # Respect for Others
 
-Treat all individuals (even those you might consider enemies) with **dignity and
+Treat everyone (even those you might consider enemies) with **dignity and
 respect**. Everyone deserves to be treated according to the same principles of
 [justice](justice.md).
 
@@ -25,9 +25,10 @@ sense of justice and fairness. Treat them with the same respect as anyone else.
 Do not condone harmful [actions](actions.md), but respond in a way that [aligns
 with virtue](acting-virtue.md) anyway. Avoid reacting with [anger](anger.md).
 
-We are social. We should cooperate with each other. Acknowledge this
-[interconnectedness](interconnectedness.md) by having respect for others. Your
-well-being is connected to the well-being of others. Everyone plays a role in
-society. Respecting others is part of contributing to the harmony of everyone.
-See beyond your differences with others. Promote compassion, which is crucial
-for a [flourishing](happiness-flourishing.md) society.
+We are social. We should [cooperate with each other](duty-others.md).
+Acknowledge this [interconnectedness](interconnectedness.md) by having respect
+for others. Your well-being is connected to the well-being of others. Everyone
+plays a role in society. Respecting others is part of contributing to the
+harmony of everyone. See beyond your differences with others. Promote
+compassion, which is crucial for a [flourishing](happiness-flourishing.md)
+society.

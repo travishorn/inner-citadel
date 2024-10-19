@@ -31,8 +31,7 @@ Take responsibility for your actions and strive for self-improvement. However,
 your efforts should be focused on cultivating inner strength,
 [wisdom](wisdom.md), and [resilience](emotional-resilience.md), rather than
 trying to control external events. This is the way to [inner
-freedom](inner-peace.md) and [equanimity](inner-peace.md),
-regardless of what happens in the external world.
+freedom](inner-peace.md) regardless of what happens in the external world.
 
 Planning and preparation are important, but be cautious of excessive attachment
 to specific outcomes. Make your plans and preparations with [a sense of
@@ -45,4 +44,4 @@ whatever outcome arises.
 Your efforts to affect the future should be guided by a sense of humility and
 recognition of your place within the larger world. Remember there are limits of
 your knowledge and control. Cultivate a sense of awe at the beauty of the world
-and wonder at it's complexity.
+and wonder at its complexity.

@@ -23,13 +23,14 @@ avoid harmful words. Communicate truthfully and avoid emotionally charged
 responses. This way, your words pack a powerful combination of being
 constructive and reflecting your values.
 
-The physical things you do are also within your control. This includes how you
-handle tasks, how you treat others, and the choices you make. Act with purpose.
-Make every action reflect your virtues. Focus on what can be done well and do
-not become attached to outcomes beyond your control.
+The physical things you do are also within your control. This includes [how you
+handle tasks](actions.md), [how you treat others](duty-others.md), and the
+choices you make. Act with purpose. Make every action reflect your virtues.
+Focus on what can be done well and do not become attached to outcomes beyond
+your control.
 
-Regulate how you respond to external events, especially under pressure. Maintain
-composure, be patient, and stick to your principles in all circumstances.
-Cultivate emotional discipline to remain grounded in virtue. Assert control over
-your own conduct by controlling impulsive reactions and behaving consistently
-with your standards.
+Regulate how you respond to external events, especially under pressure.
+[Maintain composure](emotional-resilience.md), be patient, and stick to your
+principles in all circumstances. Cultivate emotional discipline to remain
+grounded in virtue. Assert control over your own actions by controlling
+impulsive reactions and behaving consistently with your standards.

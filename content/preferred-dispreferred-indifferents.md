@@ -24,8 +24,8 @@ burdens like stress and [fear](fear.md), which can cloud judgment and make it
 harder to act in [accordance with reason](living-accordance-nature.md).
 
 [Do not become attached](detachment-externals.md) to preferred indifferents or
-overly averse to dispreferred ones. Instead, view them with equanimity. They are
-ultimately [outside our
+overly averse to dispreferred ones. Instead, view them with a neutral mindset.
+They are ultimately [outside your
 control](dichotomy-control.md#what-is-outside-our-control).
 
 Make more informed choices in life by prioritizing things that are conducive to

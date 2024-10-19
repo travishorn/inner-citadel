@@ -29,7 +29,7 @@ from [wisdom](wisdom.md) is good. But they can also be **unhealthy**,
 irrational, and not aligned with virtue. For example, [anger](anger.md) stems
 from your misjudgment about what is truly valuable in life. Do not seek to
 eliminate all your feelings. Instead, try to experience only rational emotions
-to achieve emotional serenity.
+to achieve [serenity](emotional-resilience.md).
 
 Also strive for a state of **unshakable calmness**. Freedom from distress (like
 anxiety) is the end result of achieving inner peace and living in harmony with
@@ -39,5 +39,5 @@ to achieve a lasting sense of inner peace.
 **Accept reality**. When faced with adversity, acknowledge that you cannot
 change external events. Respond to them in a way that reflects [your
 values](cardinal-virtues.md). With practice, you will find emotional serenity
-and a state of inner peace because you no longer fight against the inevitable or
-worry about things beyond your control.
+and a state of inner peace because you [no longer fight against the
+inevitable](love-fate.md) or worry about things beyond your control.

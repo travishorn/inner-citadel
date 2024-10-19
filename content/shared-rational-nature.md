@@ -25,4 +25,5 @@ it. Align yourself in this way to achieve [happiness](happiness-flourishing.md).
 
 Due to our shared rational nature, [you have a duty](duty-others.md) to [act
 virtuously](acting-virtue.md) towards others. [Respect others' capacity for
-reason](respect-others.md) and support the well-being of your community.
+reason](respect-others.md) and support the [well-being of your
+community](community-engagement.md).

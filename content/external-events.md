@@ -22,15 +22,15 @@ say are all their own [actions](actions.md) and choices, and are outside your
 control.
 
 While you can take steps to prevent illness, **whether you ultimately fall ill**
-is outside your control. Aging and death are inevitable and outside your
-control.
+is outside your control. Aging and [death](reflecting-death.md) are inevitable
+and outside your control.
 
 Your success with **money** and **status** are external outcomes. Market
 conditions, luck, and trends are outside your control.
 
 You can protest and vote, but the **decisions of leaders** and laws passed by
 governments are not under your direct control. War and conflict can impact you,
-but they are outside your control.
+but they are also outside your control.
 
 You may [prefer certain outcomes](preferred-dispreferred-indifferents.md), and
 you should work toward them. However, understand that the outcome is not

@@ -32,16 +32,13 @@ harmony with yourself and the world. Since virtue is [entirely within our
 control](dichotomy-control.md#what-is-within-our-control), it is a reliable
 source of lasting happiness.
 
-Another way to define virtue is acting with perfect reason and character. It is
-[the ability to discern what is good, bad, or indifferent](wisdom.md), [strength
-in the face of adversity](courage.md), [fairness & doing what is
-right](justice.md), and [self-control](temperance.md). The virtues form an
-interconnected framework, meaning you cannot possess one without the others. Act
-rationally and consistently with these principles.
+Strive for perfect reason and character: work on your ability to make good
+judgments, be strong through adversity, do what is right, and practice
+self-control. Wisdom, courage, justice, and temperance are an interconnected
+framework. You cannot possess one without the others.
 
-We cannot control external events or the actions of others. But we have complete
-control over our own reactions and decisions. In situations outside your
-control, act with virtue adhering to wisdom and temperance. If you suffer
-misfortune, do not despair but instead focus on your response. Recognize that
-the event itself is indifferent. The only thing that matters is how you respond
-to it.
+You cannot control external events or the actions of others. But you do have
+complete control over your own reaction. In situations outside your control, act
+with virtue. If you suffer some misfortune, do not despair but instead focus on
+your response. Recognize that the event itself is indifferent. The only thing
+that matters is how you respond to it.

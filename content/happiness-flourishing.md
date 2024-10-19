@@ -19,8 +19,9 @@ Happiness does not come from pleasure or emotional satisfaction. It comes from
 **flourishing**. Virtue is the only condition necessary for flourishing.
 External things like wealth, health, and status are [not inherently good or
 bad](detachment-externals.md). They are "indifferent" and do not contribute to
-flourishing. To flourish, align yourself with natural order, [accept whatever
-happens](love-fate.md), and focus on [what is within your
+flourishing. To flourish, [align yourself with natural
+order](living-accordance-nature.md), [accept whatever happens](love-fate.md),
+and focus on [what is within your
 control](dichotomy-control.md#what-is-within-our-control).
 
 Seeking pleasure or avoiding discomfort is misguided because those feelings

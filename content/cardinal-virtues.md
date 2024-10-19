@@ -30,6 +30,6 @@ control](dichotomy-control.md). They are the essence of human nature. Live
 according to them and you [live according to
 nature](living-accordance-nature.md), bringing true goodness into your life.
 
-Acting with virtue is a lifelong process in which you continuously strive for
-improvement. While complete virtue is rare and difficult to obtain, use a
-theoretical sage who fully embodies the virtues as a role model to aspire to.
+Acting with virtue is a lifelong process. You must continuously strive for
+improvement. While complete virtue is difficult to obtain (if not impossible),
+think about this ideal and aspire to it.

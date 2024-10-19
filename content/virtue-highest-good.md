@@ -28,7 +28,7 @@ contribute to moral worth or happiness themselves. What makes an action good is
 whether it builds virtuous character, not whether it contributes to preferred
 outcomes or [external things](external-events.md).
 
-Virtue is sufficient to achieve happiness. It allows you to maintain [inner
+Happiness is achieved through virtuous living. It allows you to maintain [inner
 peace](inner-peace.md) regardless of external conditions. Even through
 difficulties, a virtuous person can flourish because their happiness depends
 entirely on their moral character.

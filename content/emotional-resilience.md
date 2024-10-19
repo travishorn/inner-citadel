@@ -29,8 +29,7 @@ is within your control and what is outside your control](dichotomy-control.md).
 The more you do this, the closer you come to [accepting
 reality](love-fate.md).
 
-Use [key practices & exercises](key-practices-exercises.md) to strengthen your
-emotional resilience.
+[Practice](key-practices-exercises.md) strengthening your emotional resilience.
 
 Master passions by applying reason and the cultivating virtue. Recognize that
 destructive emotions are the result of your misguided judgment about external
