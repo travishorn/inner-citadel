@@ -4,7 +4,7 @@ This is a guide for anyone who wants to have a solid plan when facing adversity,
 find tranquility, and live a fulfilling life. Everything you read here has its
 roots in ancient Stoic philosophy.
 
-Go to https://travishorn.github.io/inner-peace to see the guide.
+Go to https://travishorn.github.io/inner-citadel to see the guide.
 
 ## Installation
 
