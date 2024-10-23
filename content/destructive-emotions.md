@@ -17,7 +17,7 @@ aliases:
 
 # Destructive Emotions
 
-Destructive emotions (also called **passions**) **disrupt your peace of mind**
+Destructive emotions (also called passions) **disrupt your peace of mind**
 and **lead you away from rational living**. These emotions are not natural,
 uncontrollable forces, but the result of [faulty
 judgments](passions-irrational-judgments.md) about what is good or bad. You can
