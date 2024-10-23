@@ -13,6 +13,10 @@ tags:
   - indifferents
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of detachment from externals." :src="$withBase('/images/detachment-externals.webp')">
+</div>
+
 # Detachment from Externals
 
 Cultivate a sense of **detachment from external things** like wealth, status,

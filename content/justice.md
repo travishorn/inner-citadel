@@ -13,6 +13,10 @@ tags:
   - humanity
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of justice in shades of indigo." :src="$withBase('/images/justice.webp')">
+</div>
+
 # Justice
 
 Justice is the **commitment to fairness**, **[respect for

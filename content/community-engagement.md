@@ -8,6 +8,10 @@ tags:
   - humanity
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of community engagement." :src="$withBase('/images/community-engagement.webp')">
+</div>
+
 # Community Engagement
 
 Be an **active members of your community**. Work toward the common good rather

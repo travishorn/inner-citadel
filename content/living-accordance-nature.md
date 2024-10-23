@@ -11,6 +11,10 @@ tags:
   - perspective
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of living in accordance with nature." :src="$withBase('/images/living-accordance-nature.webp')">
+</div>
+
 # Living in Accordance with Nature
 
 **Align yourself with the natural order of things.** [Accept

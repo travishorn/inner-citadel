@@ -9,6 +9,10 @@ tags:
   - cosmos
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of interconnectedness." :src="$withBase('/images/interconnectedness.webp')">
+</div>
+
 # Interconnectedness
 
 Humans are **not isolated individuals**, but part of a vast, **interconnected

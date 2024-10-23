@@ -10,6 +10,10 @@ tags:
   - techniques
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the practice of voluntary discomfort." :src="$withBase('/images/voluntary-discomfort.webp')">
+</div>
+
 # Voluntary Discomfort
 
 Build [emotional resilience](emotional-resilience.md), cultivate [inner

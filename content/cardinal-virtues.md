@@ -10,6 +10,10 @@ tags:
   - ethics
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of virtue." :src="$withBase('/images/virtue.webp')">
+</div>
+
 # Cardinal Virtues
 
 The **foundation of ethical living** and the path to [happiness and

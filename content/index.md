@@ -4,12 +4,12 @@ footer: Inner Citadel © by Travis Horn is licensed under CC BY-SA 4.0
 ---
 
 <div style="text-align:center;margin-top:50px">
-  <img style="width:100%;max-width:300px" alt="Citadel logo" :src="$withBase('/images/citadel.png')">
+  <img style="width:100%;max-width:300px" alt="A castle made of white stone with an indigo roof perched atop a floating island covered in green grass and trees. A waterfall cascades down the side of the island." :src="$withBase('/images/castle-floating-island.webp')">
 </div>
 
-This is a guide for anyone who wants to have a solid plan when facing adversity,
-find tranquility, and live a fulfilling life. Everything you read here has its
-roots in ancient Stoic philosophy.
+This is a guide for anyone who wants to live a fulfilling life, find
+tranquility, and have a solid plan when facing adversity. Everything you read
+here has its roots in ancient Stoic philosophy.
 
 <div class="featured">
   <div>

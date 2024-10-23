@@ -9,6 +9,10 @@ tags:
   - ethics
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of a shared rational nature." :src="$withBase('/images/shared-rational-nature.webp')">
+</div>
+
 # Shared Rational Nature
 
 **All people possess reason.** It is the spark that connects us to the universe

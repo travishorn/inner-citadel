@@ -9,6 +9,10 @@ tags:
   - humanity
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of a duty to others." :src="$withBase('/images/duty-others.webp')">
+</div>
+
 # Duty to Others
 
 Recognize the unity of all humans. You have an **obligation to act with

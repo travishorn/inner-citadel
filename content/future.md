@@ -9,6 +9,10 @@ tags:
   - attachment
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of the future." :src="$withBase('/images/time.webp')">
+</div>
+
 # The Future
 
 Anxiety about the future stems from the [fear](fear.md) of an unknown outcome.

@@ -9,6 +9,10 @@ tags:
   - techniques
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of self-reflection." :src="$withBase('/images/self-reflection.webp')">
+</div>
+
 # Self-Reflection
 
 Practice self-reflection to **examine your thoughts, emotions, and actions**.
@@ -29,7 +33,11 @@ your decisions are guided by reason rather than emotion.
 
 Use a journal to examine your emotional reactions and moments of both strength
 and weakness. Use what you discover to correct misjudgments and improve your
-character. Here are some questions you can ask yourself:
+character.
+
+## Sample Prompts
+
+Here are some questions you can ask yourself:
 
 - What events today were beyond my control? How did I respond to them?
 - Did I act according to my values and principles in my decisions today?

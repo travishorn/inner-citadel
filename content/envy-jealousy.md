@@ -9,6 +9,10 @@ tags:
   - self-improvement
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of envy and jealousy." :src="$withBase('/images/envy-jealousy.webp')">
+</div>
+
 # Envy & Jealousy
 
 Envy and jealousy arise from **comparing yourself to others** and **desiring

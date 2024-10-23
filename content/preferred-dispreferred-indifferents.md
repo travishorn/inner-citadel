@@ -8,6 +8,10 @@ tags:
   - indifferents
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of preferred and dispreferred indifferents." :src="$withBase('/images/preferred-dispreferred-indifferents.webp')">
+</div>
+
 # Preferred and Dispreferred Indifferents
 
 Some [external things](external-events.md) in life are neither good nor bad in

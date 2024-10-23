@@ -10,6 +10,10 @@ tags:
   - temperance
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of the role of reason." :src="$withBase('/images/role-reason.webp')">
+</div>
+
 # Role of Reason
 
 Reason is your **main method of controlling your

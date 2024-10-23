@@ -11,6 +11,10 @@ aliases:
   - Passions
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of destructive emotions." :src="$withBase('/images/destructive-emotions.webp')">
+</div>
+
 # Destructive Emotions
 
 Destructive emotions (also called **passions**) **disrupt your peace of mind**

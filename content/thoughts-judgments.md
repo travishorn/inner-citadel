@@ -10,6 +10,10 @@ tags:
   - internal-vs-external
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of thoughts and judgments." :src="$withBase('/images/thoughts-judgments.webp')">
+</div>
+
 # Thoughts & Judgments
 
 Your **interpretations of events**, the **values you assign** to things, and

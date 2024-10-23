@@ -12,6 +12,10 @@ tags:
   - indifferents
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of the dichotomy of control." :src="$withBase('/images/dichotomy-control.webp')">
+</div>
+
 # Dichotomy of Control
 
 There is a sharp line between what is **within your control** and what is

@@ -32,16 +32,24 @@ export default defineUserConfig({
   lang: "en-US",
   title: "Inner Citadel",
   description:
-    "a guide for anyone who wants to have a solid plan when facing adversity, find tranquility, and live a fulfilling life.",
+    "A guide for anyone who wants to live a fulfilling life, find tranquility, and have a solid plan when facing adversity.",
   theme: defaultTheme({
-    logo: "images/citadel.png",
+    logo: "images/castle-floating-island.webp",
     sidebar: await contentFiles(),
   }),
-  head: [["link", { rel: "icon", href: "/images/citadel.png" }]],
+  head: [
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "/inner-citadel/images/castle-floating-island.webp",
+      },
+    ],
+  ],
   bundler: viteBundler(),
   dest: ".vuepress/dist",
   temp: ".vuepress/.temp",
   cache: ".vuepress/.cache",
   public: "content/static",
-  base: "/inner-citadel/"
+  base: "/inner-citadel/",
 });

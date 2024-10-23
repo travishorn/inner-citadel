@@ -9,6 +9,10 @@ tags:
   - temperance
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of passions as irrational judgments." :src="$withBase('/images/passions-irrational-judgments.webp')">
+</div>
+
 # Passions as Irrational Judgments
 
 [Passions](destructive-emotions.md) (destructive emotions) are **not inevitable

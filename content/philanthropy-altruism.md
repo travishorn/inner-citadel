@@ -9,6 +9,10 @@ tags:
   - humanity
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of philanthropy and altruism." :src="$withBase('/images/philanthropy-altruism.webp')">
+</div>
+
 # Philanthropy & Altruism
 
 **Your [duty to others](duty-others.md)** includes philanthropy (literally, the

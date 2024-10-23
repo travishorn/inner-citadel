@@ -14,6 +14,10 @@ tags:
   - equanimity
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of the love of fate." :src="$withBase('/images/love-fate.webp')">
+</div>
+
 # Love of Fate
 
 **Embrace all events**, good and bad, as a part of the [natural order of

@@ -13,6 +13,10 @@ tags:
   - reason
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of courage in shades of indigo." :src="$withBase('/images/courage.webp')">
+</div>
+
 # Courage
 
 Courage is the **strength to face adversity** with resilience and confidence. It

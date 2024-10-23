@@ -13,6 +13,10 @@ aliases:
   - Premeditation of Adversity
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the practice of negative visualization." :src="$withBase('/images/negative-visualization.webp')">
+</div>
+
 # Negative Visualization
 
 Prepare for emotional challenges by practicing negative visualization.

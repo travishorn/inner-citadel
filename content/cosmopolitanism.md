@@ -11,6 +11,10 @@ tags:
   - justice
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of cosmopolitanism." :src="$withBase('/images/cosmopolitanism.webp')">
+</div>
+
 # Cosmopolitanism
 
 There is a **brotherhood of all humanity**. Every person is a citizen of the

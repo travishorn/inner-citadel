@@ -8,6 +8,10 @@ tags:
   - internal-vs-external
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of the past." :src="$withBase('/images/time.webp')">
+</div>
+
 # The Past
 
 Regret serves no useful purpose because **the past cannot be changed**. What has

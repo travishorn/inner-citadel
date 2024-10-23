@@ -1,8 +1,7 @@
 # Inner Citadel
 
-This is a guide for anyone who wants to have a solid plan when facing adversity,
-find tranquility, and live a fulfilling life. Everything you read here has its
-roots in ancient Stoic philosophy.
+A guide for anyone who wants to live a fulfilling life, find tranquility, and
+have a solid plan when facing adversity.
 
 Go to https://travishorn.github.io/inner-citadel to see the guide.
 

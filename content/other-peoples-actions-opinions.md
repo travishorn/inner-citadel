@@ -10,6 +10,10 @@ tags:
   - attachment
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of other people's actions and opinions." :src="$withBase('/images/actions.webp')">
+</div>
+
 # Other People's Actions & Opinions
 
 You cannot control how **others behave**, what they **say**, or what they

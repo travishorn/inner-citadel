@@ -11,6 +11,10 @@ tags:
   - self-improvement
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of cognitive reappraisal." :src="$withBase('/images/cognitive-reappraisal.webp')">
+</div>
+
 # Cognitive Reappraisal
 
 **Reframe negative events in a rational light**. Rather than viewing a situation

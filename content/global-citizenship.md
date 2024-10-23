@@ -9,6 +9,10 @@ tags:
   - humanity
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of global citizenship." :src="$withBase('/images/global-citizenship.webp')">
+</div>
+
 # Global Citizenship
 
 Think of yourself as a **citizen of the world**, focusing on what unites all

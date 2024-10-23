@@ -10,6 +10,10 @@ tags:
   - duty
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of respect for others." :src="$withBase('/images/respect-others.webp')">
+</div>
+
 # Respect for Others
 
 Treat everyone (even those you might consider enemies) with **dignity and

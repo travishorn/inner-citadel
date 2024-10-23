@@ -11,6 +11,10 @@ tags:
   - equanimity
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of reflecting on death." :src="$withBase('/images/reflecting-death.webp')">
+</div>
+
 # Reflecting on Death
 
 Remember that you must die. Knowing this, take meaningful action and live a

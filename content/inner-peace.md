@@ -18,6 +18,10 @@ tags:
   - resilience
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of inner peace." :src="$withBase('/images/inner-peace.webp')">
+</div>
+
 # Inner Peace
 
 Strive to **be free from [destructive or excessive

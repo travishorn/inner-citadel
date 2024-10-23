@@ -10,6 +10,10 @@ tags:
   - perspective
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of self-reflection." :src="$withBase('/images/self-reflection.webp')">
+</div>
+
 # Key Practices & Exercises
 
 Challenges are inevitable. How you react to them determines your well-being. Use

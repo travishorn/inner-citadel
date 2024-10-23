@@ -9,6 +9,10 @@ tags:
   - reason
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of time and the present moment." :src="$withBase('/images/time.webp')">
+</div>
+
 # Time & The Present Moment
 
 The only moment we truly have is the present. **Focus on what you can do here

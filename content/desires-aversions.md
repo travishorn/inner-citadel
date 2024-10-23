@@ -10,6 +10,10 @@ tags:
   - indifferents
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of desires and aversions." :src="$withBase('/images/thoughts-judgments.webp')">
+</div>
+
 # Desires & Aversions
 
 Your internal desires (what you **pursue**) are in your control. Align your

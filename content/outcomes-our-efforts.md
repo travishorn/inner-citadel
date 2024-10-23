@@ -9,6 +9,10 @@ tags:
   - attachment
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of the outcomes of our efforts." :src="$withBase('/images/outcomes-our-efforts.webp')">
+</div>
+
 # Outcomes of Our Efforts
 
 While you can control your actions, you **cannot control the ultimate outcome**

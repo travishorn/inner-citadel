@@ -9,6 +9,10 @@ tags:
   - perspective
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of anger." :src="$withBase('/images/anger.webp')">
+</div>
+
 # Anger
 
 Anger is one of the most **destructive** emotions because it is both harmful and

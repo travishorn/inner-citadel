@@ -10,6 +10,10 @@ tags:
   - justice
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of actions." :src="$withBase('/images/actions.webp')">
+</div>
+
 # Actions
 
 How you choose to **behave**, what you **say**, and what you **do** are directly

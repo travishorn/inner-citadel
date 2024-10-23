@@ -12,6 +12,10 @@ tags:
   - mental-fortitude
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of virtue." :src="$withBase('/images/virtue.webp')">
+</div>
+
 # Acting with Virtue
 
 Focus on these virtues: [wisdom](wisdom.md), [courage](courage.md),

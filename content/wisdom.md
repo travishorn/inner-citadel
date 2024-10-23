@@ -14,6 +14,10 @@ tags:
   - self-improvement
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of wisdom in shades of indigo." :src="$withBase('/images/wisdom.webp')">
+</div>
+
 # Wisdom
 
 Develop the ability to **understand what is truly important** in life and how to

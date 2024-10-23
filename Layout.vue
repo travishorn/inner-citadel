@@ -36,6 +36,10 @@ import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
   font-weight: normal;
 }
 
+.vp-page .theme-default-content {
+  padding-top: 1rem;
+}
+
 .theme-default-content li {
   margin-bottom: 10px;
 }

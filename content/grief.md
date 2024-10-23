@@ -9,6 +9,10 @@ tags:
   - mindfulness
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of grief." :src="$withBase('/images/grief.webp')">
+</div>
+
 # Grief
 
 Grief stems from the **attachment to external things** (such as loved ones or

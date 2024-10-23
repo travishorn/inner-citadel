@@ -13,6 +13,10 @@ tags:
   - self-improvement
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of temperance in shades of indigo." :src="$withBase('/images/temperance.webp')">
+</div>
+
 # Temperance
 
 Temperance is exercising **self-control** and **moderation** in all areas of

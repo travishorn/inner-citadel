@@ -13,6 +13,10 @@ tags:
   - courage
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of emotional resilience." :src="$withBase('/images/emotional-resilience.webp')">
+</div>
+
 # Emotional Resilience
 
 Master passions and overcome destructive emotions. Freedom and tranquility come

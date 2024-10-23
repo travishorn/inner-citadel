@@ -9,6 +9,10 @@ tags:
   - indifferents
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of external events." :src="$withBase('/images/external-events.webp')">
+</div>
+
 # External Events
 
 An external event is anything [outside of your

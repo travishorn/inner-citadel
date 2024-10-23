@@ -9,6 +9,10 @@ tags:
   - resilience
 ---
 
+<div style="text-align:center;">
+  <img style="width:100%;max-width:300px" alt="An abstract watercolor illustration evoking the concept of fear." :src="$withBase('/images/fear.webp')">
+</div>
+
 # Fear
 
 Fear, especially the fear of loss or death, is based on the belief that
