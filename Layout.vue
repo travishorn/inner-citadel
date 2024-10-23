@@ -26,10 +26,15 @@ import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
 }
 
 :root {
-  --vp-c-accent: #4E5DD0;
-  --vp-c-accent-bg: #4E5DD0;
+  --vp-c-accent: #3B7BB0;
+  --vp-c-accent-bg: #3B7BB0;
   --font-family: 'Mulish Variable';
   --nprogress-c: transparent;
+}
+
+:root[data-theme=dark] {
+  --vp-c-accent: #4488C1;
+  --vp-c-accent-bg: #4488C1;
 }
 
 .vp-sidebar-item.vp-sidebar-heading {
