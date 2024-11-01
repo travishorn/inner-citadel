@@ -3,6 +3,7 @@ import { join, extname } from "node:path";
 import { defaultTheme } from "@vuepress/theme-default";
 import { defineUserConfig } from "vuepress/cli";
 import { viteBundler } from "@vuepress/bundler-vite";
+import { type } from "node:os";
 
 /**
  * Determines whether a file is an index file (index.md or README.md)
@@ -38,13 +39,16 @@ export default defineUserConfig({
     sidebar: await contentFiles(),
   }),
   head: [
-    [
-      "link",
-      {
-        rel: "icon",
-        href: "/inner-citadel/images/castle-floating-island.webp",
-      },
-    ],
+    ["link", { rel: "icon", href: "/inner-citadel/images/castle-floating-island.webp", type: "image/webp" }],
+    ["meta", { name: "author", content: "Travis Horn" }],
+    ["meta", { property: "og:image", content: "/inner-citadel/images/inner-citadel-og.png" }],
+    ["meta", { property: "og:url", content: "https://travishorn.github.io/inner-citadel" }],
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { name: "color-scheme", content: "dark light" }],
+    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { name: "twitter:title", content: "Inner Citadel" }],
+    ["meta", { name: "twitter:description", content: "A guide for anyone who wants to live a fulfilling life, find tranquility, and have a solid plan when facing adversity." }],
+    ["meta", { name: "twitter:image", content: "/inner-citadel/images/inner-citadel-og.png" }],
   ],
   bundler: viteBundler(),
   dest: ".vuepress/dist",
