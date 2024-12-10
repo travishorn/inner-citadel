@@ -73,4 +73,15 @@ import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
 .git-info {
   display: none;
 }
+
+@media print {
+  .vp-sidebar {
+    display: none;
+    width: 0;
+  }
+
+  .vp-page {
+    padding: 0;
+  }
+}
 </style>
