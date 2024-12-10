@@ -30,7 +30,7 @@ quality of the [virtuous](cardinal-virtues.md) effort you put in.
 
 All outcomes are a part of the [natural order of
 things](living-accordance-nature.md). Rather than cursing your failures or
-excessively celebrating your your success, take a balanced view that [recognizes
+excessively celebrating your success, take a balanced view that [recognizes
 the transient nature all outcomes](love-fate.md). Understanding how to view the
 outcomes of your efforts leads to [emotional
 resilience](emotional-resilience.md) and adaptability.

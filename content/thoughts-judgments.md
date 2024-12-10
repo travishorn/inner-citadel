@@ -19,7 +19,7 @@ tags:
 Your **interpretations of events**, the **values you assign** to things, and
 **how you mentally react** to situations are entirely [under your
 control](dichotomy-control.md#what-is-within-our-control). You can choose
-whether you see an event as as good, bad, or neutral. For example, if someone
+whether you see an event as good, bad, or neutral. For example, if someone
 insults you, you can choose to be offended or you can choose to remain calm and
 unaffected. Recognize that the insult does not affect your moral character, and
 the choice becomes easy.
